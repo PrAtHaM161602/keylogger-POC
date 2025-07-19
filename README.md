@@ -54,7 +54,7 @@ This keylogger script can record keystrokes on a target machine and send them to
 Install the required libraries using pip:
 
 ```bash
-pip install pynput requests
+pip install pynput
 ```
 
 ---
