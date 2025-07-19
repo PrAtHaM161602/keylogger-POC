@@ -1,6 +1,6 @@
 # keylogger-POC
 
-### README.md: Remote Keylogger in Python
+
 
 ---
 
