@@ -60,42 +60,6 @@ pip install pynput requests
 ---
 
 ## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/remote-keylogger.git
-   cd remote-keylogger
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-## Usage
-
-### **Running the Keylogger Script**
-
-
-
-2. Run the script:
-
-   ```bash
-   python keylogger.py
-   ```
-
-   The keylogger will start capturing keystrokes and sending them to the specified server.
-
-### **Stopping the Keylogger**
-
-To stop the keylogger, you must terminate the script. On most systems, you can do this by pressing `CTRL+C` in the terminal where the script is running.
-
----
-
 ## Proof of Concept (POC)
 
 
